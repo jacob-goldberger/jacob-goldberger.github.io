@@ -13,10 +13,10 @@ title                    : "Jacob Goldberger"
 title_separator          : "-"
 name                     : &name "Jacob Goldberger"
 description              : &description "Professor of Engineering at Bar-Ilan University researching statistical machine learning and deep learning."
-url                      : https://jacob-goldberger.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : #https://jacob-goldberger.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jacob-goldberger/jacob-goldberger.github.io"
+repository               : #"jacob-goldberger/jacob-goldberger.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -30,7 +30,7 @@ author:
   location         : "Ramat Gan, Israel"
   employer         : "Bar-Ilan University"
   uri              : "https://engineering.biu.ac.il/en"
-  email            :
+  email            :  jacob.goldberger at biu.ac.il
 
   # Academic websites
   academia         : # URL
